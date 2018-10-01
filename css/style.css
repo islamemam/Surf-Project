@@ -1,0 +1,37 @@
+/*
+project Name : electroo;
+BY: i.emam ;
+RELEASE : 9/2018
+ */
+/* variables */
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, label, body {
+  margin: 0; }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; }
+
+a:hover {
+  text-decoration: none; }
+
+.m-t20 {
+  margin-top: 20px; }
+
+.l-h {
+  line-height: 1.4; }
+
+.m-t40 {
+  margin-top: 40px; }
+
+.m-t10 {
+  margin-top: 10px; }
+
+li {
+  display: inline-block; }
+
+body {
+  background-color: #fff;
+  padding-top: 40px; }
+
+/*# sourceMappingURL=style.css.map */
